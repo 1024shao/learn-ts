@@ -19,3 +19,4 @@ function sayHello(p: Person) {
 
 const stu = new Student()
 sayHello(stu)
+export { }
